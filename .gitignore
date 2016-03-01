@@ -1,0 +1,11 @@
+a.out
+*.o
+#*#
+*~
+.tmp
+tmp
+/my_nm
+/my_objdump
+TAGS
+moul_
+moul_*
